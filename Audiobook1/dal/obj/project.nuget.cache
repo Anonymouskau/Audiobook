@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DTVlYTW/5F4n0Pndz3g3BYbjfagYyluCC40ooIgEPdsELlB5UkoPadowqxnLGM+Nt5rh/DI+M022zkWQR6LAtw==",
+  "dgSpecHash": "HLGoRnFF/y/BSGSnDQwbI5/bS3m5wPoEq7Cz9LAGUwzCwtEDaFh3AR/V40zsd0QkRGonXZRJvND16IV+GulF6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\dal\\dal.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

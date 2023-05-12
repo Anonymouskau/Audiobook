@@ -17,7 +17,15 @@ public class HomeController : Controller
     {
         return View();
     }
+   
+   [HttpPost]
+   public IActionResult Add(IFormFile mp)
+    {    
 
+        Console.WriteLine("In this controller"+mp.FileName);
+        return RedirectToAction("Index", "Account");
+    }
+    
     public IActionResult Privacy()
     {
         return View();

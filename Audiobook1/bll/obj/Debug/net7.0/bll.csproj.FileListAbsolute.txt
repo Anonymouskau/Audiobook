@@ -10,3 +10,15 @@ C:\Users\Dell\Desktop\Dotnetproj\Audiobook\bll\obj\Debug\net7.0\bll.dll
 C:\Users\Dell\Desktop\Dotnetproj\Audiobook\bll\obj\Debug\net7.0\refint\bll.dll
 C:\Users\Dell\Desktop\Dotnetproj\Audiobook\bll\obj\Debug\net7.0\bll.pdb
 C:\Users\Dell\Desktop\Dotnetproj\Audiobook\bll\obj\Debug\net7.0\ref\bll.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\bll.deps.json
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\bll.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\bll.pdb
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\refint\bll.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.pdb
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\ref\bll.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zigOx7LndiBkK3qMvQv70JtRftkkKSogVwSE2TFBD8rE/qhw910eYFMbuNq7+oW33vpoFvRmCxzMUXN1lC8vAA==",
+  "dgSpecHash": "IzOHKUsT5ZvGqz02lB+COdixI5td6+3OCSwJ8itE7QaXFF/VbIF9v3RDaSf7xCEefq0jOzxp9MIgsDv29zuuOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\bll\\bll.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bll\\bll.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

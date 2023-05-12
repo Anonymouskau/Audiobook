@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\sol\\sol.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\sol\\sol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\sol\\sol.csproj": {
+    "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\sol\\sol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\sol\\sol.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\sol\\sol.csproj",
         "projectName": "sol",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\sol\\sol.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\sol\\sol.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\sol\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\sol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

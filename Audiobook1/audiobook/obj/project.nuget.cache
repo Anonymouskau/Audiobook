@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dxMs/93vLYhxOwCSaowUqncfT5t+lOLOSYqcR6Ml4NvlZB1yZhPW/Uk4oX3L8FnE7eWV/SyZTclBlF3fDbeZVg==",
+  "dgSpecHash": "B+5Dnk4kYO10H17M1Bbh1VV9IrZHN+9lWKLG3Ewrl6lLxrRKMarg31CfzL5waRv9UpLWNNp7Zs2QUytB1W7DmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\audiobook\\audiobook.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\audiobook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

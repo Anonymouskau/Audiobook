@@ -1778,11 +1778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\audiobook\\audiobook.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\audiobook.csproj",
       "projectName": "audiobook",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\audiobook\\audiobook.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\audiobook.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\audiobook\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1797,17 +1797,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\bll\\bll.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\bll\\bll.csproj"
+            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bll\\bll.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bll\\bll.csproj"
             },
-            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\bol\\bol.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\bol\\bol.csproj"
+            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bol\\bol.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bol\\bol.csproj"
             },
-            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\dal\\dal.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\dal\\dal.csproj"
+            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj"
             },
-            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\sol\\sol.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\sol\\sol.csproj"
+            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\sol\\sol.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\sol\\sol.csproj"
             }
           }
         }

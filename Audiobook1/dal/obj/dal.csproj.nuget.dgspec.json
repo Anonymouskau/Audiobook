@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\dal\\dal.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\dal\\dal.csproj": {
+    "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\dal\\dal.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj",
         "projectName": "dal",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\dal\\dal.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\dal\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
