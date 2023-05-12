@@ -10,4 +10,8 @@
     <PackageReference Include="mysql.data" Version="8.0.33" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\bol\bol.csproj" />
+  </ItemGroup>
+
 </Project>
