@@ -1,7 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 using audiobook.Models;
-
+using System.IO;
 namespace audiobook.Controllers;
 
 public class HomeController : Controller
@@ -21,8 +22,18 @@ public class HomeController : Controller
    [HttpPost]
    public IActionResult Add(IFormFile mp)
     {    
+       try{
+            string fnama= mp.FileName;
+       Path.GetFileName(fnama);
+       string uploadpath=Path.Combine(Directory.GetCurrentDirectory(),"wwwroot\\mp3",fnama);
+       var stream =new FileStream(uploadpath,FileMode.Create);
+       mp.CopyToAsync(stream);
+       } catch(System.Exception err){
+          
+          Console.WriteLine(err);
 
-        Console.WriteLine("In this controller"+mp.FileName);
+       } 
+      
         return RedirectToAction("Index", "Account");
     }
     
