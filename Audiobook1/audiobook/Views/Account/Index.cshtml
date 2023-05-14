@@ -10,6 +10,74 @@
     <title>Document</title>
 </head>
 <body>
- <h1>Hie</h1>    
+  
+@using bol;
+
+<div>
+  
+  <h1>
+   in book
+  </h1>
+ @{
+    List<Mp3saver> alist=ViewData["mp3"] as List<Mp3saver>;
+     
+     foreach(Mp3saver b in alist)
+     {
+        <form >
+<div class="container px-4 py-5 mx-auto">
+    <div class="row d-flex justify-content-center">
+        <div class="col-5">
+            <h4 class="heading">Shopping Bag</h4>
+        </div>
+        <div class="col-7">
+            <div class="row text-right">
+                <div class="col-4">
+                    <h6 class="mt-2">Format</h6>
+                </div>
+                <div class="col-4">
+                    <h6 class="mt-2">Quantity</h6>
+                </div>
+                <div class="col-4">
+                    <h6 class="mt-2">Price</h6>
+                </div>
+                 <div class="col-4">
+                    <h6 class="mt-2"></h6>
+                </div>
+            </div>
+        </div>
+    </div>
+     <div class="row d-flex justify-content-center border-top">
+        <div class="col-5">
+            <div class="row d-flex">
+                <div class="book">
+                    <audio controls>  
+  <source src="@b.link" type="audio/mpeg">  
+  
+</audio> 
+                </div>
+                <div class="my-auto flex-column d-flex pad-left">
+                    <h6 class="mob-text">@b.id</h6>
+                    <p class="mob-text">@b.filename</p>
+                </div>
+            </div>
+        </div>
+        <div class="my-auto col-7">
+            
+            <div class="row text-right">
+              
+             
+                 <div class="col-4">
+                
+                    <button type="submit" formaction="/Book/Addtocart">Add to cart</button>
+                </div>
+            </div>
+
+        </div>
+      </div>
+</div>
+ </form>
+  }
+    
+ }
 </body>
 </html>

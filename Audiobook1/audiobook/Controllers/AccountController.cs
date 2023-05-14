@@ -1,7 +1,9 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using audiobook.Models;
-
+using System.Collections.Generic;
+using bol;
+using dal;
 namespace audiobook.Controllers;
 
 public class AccountController : Controller
@@ -15,6 +17,11 @@ public class AccountController : Controller
 
     public IActionResult Index()
     {
+      ViewBag.Message = "File uploaded successfully.";
+
+      Dbmanager db=new Dbmanager();
+        List<Mp3saver> alist=db.getallaudio();
+         this.ViewData["mp3"]=alist;
         return View();
     }
 

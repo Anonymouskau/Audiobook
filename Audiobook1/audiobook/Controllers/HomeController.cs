@@ -32,6 +32,7 @@ public class HomeController : Controller
        mp.CopyToAsync(stream);
        Dbmanager db=new Dbmanager();
          
+         
        int value=db.addbook(fnama,uploadpath);
         Console.WriteLine(value);
        } catch(System.Exception err){

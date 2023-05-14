@@ -30,6 +30,11 @@ public class Dbmanager
        conn.Close();
     }
    }
+
+
+
+
+
    public List<Mp3saver> getallaudio(){
     conn.Open();
       List<Mp3saver>lp=new List<Mp3saver>();
@@ -50,7 +55,7 @@ public class Dbmanager
     } catch(Exception err){
         Console.WriteLine(err);
     }  
-    
+      conn.Close();
      return  lp;  
  
    }
