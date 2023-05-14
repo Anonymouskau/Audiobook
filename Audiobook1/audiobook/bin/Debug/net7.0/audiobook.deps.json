@@ -11,8 +11,7 @@
           "bll": "1.0.0",
           "bol": "1.0.0",
           "dal": "1.0.0",
-          "MySql.Data": "8.0.33",
-          "sol": "1.0.0"
+          "MySql.Data": "8.0.33"
         },
         "runtime": {
           "audiobook.dll": {}
@@ -291,6 +290,10 @@
         }
       },
       "bll/1.0.0": {
+        "dependencies": {
+          "bol": "1.0.0",
+          "sol": "1.0.0"
+        },
         "runtime": {
           "bll.dll": {}
         }
@@ -302,6 +305,7 @@
       },
       "dal/1.0.0": {
         "dependencies": {
+          "bol": "1.0.0",
           "MySql.Data": "8.0.33"
         },
         "runtime": {
@@ -309,6 +313,10 @@
         }
       },
       "sol/1.0.0": {
+        "dependencies": {
+          "bol": "1.0.0",
+          "dal": "1.0.0"
+        },
         "runtime": {
           "sol.dll": {}
         }

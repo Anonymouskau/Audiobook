@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using audiobook.Models;
 using System.IO;
+using dal;
 namespace audiobook.Controllers;
 
 public class HomeController : Controller
@@ -25,9 +26,14 @@ public class HomeController : Controller
        try{
             string fnama= mp.FileName;
        Path.GetFileName(fnama);
+       
        string uploadpath=Path.Combine(Directory.GetCurrentDirectory(),"wwwroot\\mp3",fnama);
        var stream =new FileStream(uploadpath,FileMode.Create);
        mp.CopyToAsync(stream);
+       Dbmanager db=new Dbmanager();
+         
+       int value=db.addbook(fnama,uploadpath);
+        Console.WriteLine(value);
        } catch(System.Exception err){
           
           Console.WriteLine(err);
@@ -36,6 +42,7 @@ public class HomeController : Controller
       
         return RedirectToAction("Index", "Account");
     }
+    
     
     public IActionResult Privacy()
     {

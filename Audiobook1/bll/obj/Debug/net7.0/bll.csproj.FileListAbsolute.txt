@@ -34,3 +34,10 @@ C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-0
 C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\bll\obj\Debug\net7.0\refint\bll.dll
 C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.pdb
 C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\bll\obj\Debug\net7.0\ref\bll.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\bol.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\dal.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\sol.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\sol.pdb
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\bol.pdb
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\bin\Debug\net7.0\dal.pdb
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\bll\obj\Debug\net7.0\bll.csproj.CopyComplete

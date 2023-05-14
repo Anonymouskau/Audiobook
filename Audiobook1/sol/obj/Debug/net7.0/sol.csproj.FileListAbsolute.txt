@@ -34,3 +34,8 @@ C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-0
 C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\sol\obj\Debug\net7.0\refint\sol.dll
 C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\sol\obj\Debug\net7.0\sol.pdb
 C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\sol\obj\Debug\net7.0\ref\sol.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\bin\Debug\net7.0\bol.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\bin\Debug\net7.0\dal.dll
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\bin\Debug\net7.0\bol.pdb
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\bin\Debug\net7.0\dal.pdb
+C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\obj\Debug\net7.0\sol.csproj.CopyComplete

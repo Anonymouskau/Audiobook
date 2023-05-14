@@ -512,6 +512,10 @@
       "bll/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "bol": "1.0.0",
+          "sol": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/bll.dll": {}
         },
@@ -533,6 +537,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "bol": "1.0.0",
           "mysql.data": "8.0.33"
         },
         "compile": {
@@ -545,6 +550,10 @@
       "sol/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "bol": "1.0.0",
+          "dal": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/sol.dll": {}
         },
@@ -1768,53 +1777,42 @@
       "bll >= 1.0.0",
       "bol >= 1.0.0",
       "dal >= 1.0.0",
-      "mysql.data >= 8.0.33",
-      "sol >= 1.0.0"
+      "mysql.data >= 8.0.33"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\audiobook.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\audiobook.csproj",
       "projectName": "audiobook",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\audiobook.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\obj\\",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\audiobook.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\bll\\bll.csproj": {
-              "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\bll\\bll.csproj"
+            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bll\\bll.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bll\\bll.csproj"
             },
-            "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\bol\\bol.csproj": {
-              "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\bol\\bol.csproj"
+            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bol\\bol.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bol\\bol.csproj"
             },
-            "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\dal\\dal.csproj": {
-              "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\dal\\dal.csproj"
-            },
-            "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\sol\\sol.csproj": {
-              "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\sol\\sol.csproj"
+            "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\dal\\dal.csproj"
             }
           }
         }
@@ -1853,7 +1851,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -4,7 +4,7 @@ namespace dal;
 public class Dbutil
 { 
 
-   private static string connection=@"server=localhost;uid=root;pwd=sourabh@123;database=audiobook";
+   private static string connection=@"server=localhost;uid=root;pwd=123456789;database=audiobook";
  
     public static MySqlConnection conn =null;
        
