@@ -58,6 +58,7 @@ public class Dbmanager
 
     } catch(Exception err){
         Console.WriteLine(err);
+         conn.Close();
     }  
       conn.Close();
      return  lp;  

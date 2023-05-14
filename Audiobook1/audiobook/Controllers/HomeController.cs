@@ -32,7 +32,7 @@ public class HomeController : Controller
        mp.CopyToAsync(stream);
        Dbmanager db=new Dbmanager();
 
-       string path="mp3/"+fnama;  
+       string path="mp3/    "+fnama;  
        int value=db.addbook(fnama,path);
 
          
