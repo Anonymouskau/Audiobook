@@ -36,7 +36,7 @@ public class Dbmanager
 
 
    public List<Mp3saver> getallaudio(){
-    conn.Open();
+      conn.Open();
       List<Mp3saver>lp=new List<Mp3saver>();
 
     try{
@@ -46,10 +46,14 @@ public class Dbmanager
         cmd.ExecuteNonQuery();
 
       MySqlDataReader reader=  cmd.ExecuteReader();
-      mp3.id=Convert.ToInt16(reader["id"]);
+     while(reader.Read()){
+
+      mp3.id=int.Parse(reader["id"].ToString());;
       mp3.filename=reader["filename"].ToString();
       mp3.link=reader["link"].ToString();
       lp.Add(mp3);
+     }
+     
       
 
     } catch(Exception err){
