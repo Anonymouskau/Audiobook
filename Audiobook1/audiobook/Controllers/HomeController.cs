@@ -31,8 +31,14 @@ public class HomeController : Controller
        var stream =new FileStream(uploadpath,FileMode.Create);
        mp.CopyToAsync(stream);
        Dbmanager db=new Dbmanager();
+<<<<<<< HEAD
        string path="mp3"+fnama;  
        int value=db.addbook(fnama,path);
+=======
+         
+         
+       int value=db.addbook(fnama,uploadpath);
+>>>>>>> 87b8465abbf2e3931f5e434d081aaec3eb03c2df
         Console.WriteLine(value);
        } catch(System.Exception err){
           

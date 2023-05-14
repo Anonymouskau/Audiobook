@@ -39,3 +39,8 @@ C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\bin\Debug\net7.0\dal.d
 C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\bin\Debug\net7.0\bol.pdb
 C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\bin\Debug\net7.0\dal.pdb
 C:\Users\Dell\Desktop\Dotnetproj\Audiobook\Audiobook1\sol\obj\Debug\net7.0\sol.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\sol\bin\Debug\net7.0\bol.dll
+C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\sol\bin\Debug\net7.0\dal.dll
+C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\sol\bin\Debug\net7.0\bol.pdb
+C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\sol\bin\Debug\net7.0\dal.pdb
+C:\Users\HP\OneDrive\Desktop\desktopfolder1\BookManagementsln-20230128T160400Z-001\Audiobook\Audiobook\Audiobook1\sol\obj\Debug\net7.0\sol.csproj.CopyComplete
