@@ -41,13 +41,13 @@ public class Dbmanager
 
     try{
 
-        Mp3saver mp3=new Mp3saver();
+       
         MySqlCommand cmd=new MySqlCommand("select * from audbook",conn);
         cmd.ExecuteNonQuery();
 
       MySqlDataReader reader=  cmd.ExecuteReader();
      while(reader.Read()){
-
+        Mp3saver mp3=new Mp3saver();
       mp3.id=int.Parse(reader["id"].ToString());;
       mp3.filename=reader["filename"].ToString();
       mp3.link=reader["link"].ToString();

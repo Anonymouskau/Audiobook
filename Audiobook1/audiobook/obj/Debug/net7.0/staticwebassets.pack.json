@@ -1,11 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\audiobook.bundle.scp.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\audiobook.bundle.scp.css",
       "PackagePath": "staticwebassets\\audiobook.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\Baarishein(PaglaSongs).mp3",
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\01 Yeh Fitoor Mera (Fitoor) (SongsMp3.Com).mp3",
+      "PackagePath": "staticwebassets\\mp3\\01 Yeh Fitoor Mera (Fitoor) (SongsMp3.Com).mp3"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\01_Tera_Fitoor_-_Genius.mp3",
+      "PackagePath": "staticwebassets\\mp3\\01_Tera_Fitoor_-_Genius.mp3"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Kamariya_-_MusicBadshah.Com.mp3",
+      "PackagePath": "staticwebassets\\mp3\\02_-_Kamariya_-_MusicBadshah.Com.mp3"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Surili_Akhiyon_Wale.mp3",
+      "PackagePath": "staticwebassets\\mp3\\02_-_Surili_Akhiyon_Wale.mp3"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Tu_Jaane_Na_.mp3",
+      "PackagePath": "staticwebassets\\mp3\\02_-_Tu_Jaane_Na_.mp3"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\Baarishein(PaglaSongs).mp3",
       "PackagePath": "staticwebassets\\mp3\\Baarishein(PaglaSongs).mp3"
     },
     {
