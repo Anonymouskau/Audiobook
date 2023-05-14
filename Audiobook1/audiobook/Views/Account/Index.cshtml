@@ -8,6 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+ 
+  
 </head>
 <body>
   
@@ -20,7 +22,7 @@
   </h1>
  @{
     List<Mp3saver> alist=ViewData["mp3"] as List<Mp3saver>;
-     
+         
      foreach(Mp3saver b in alist)
      {
         <form >
@@ -50,10 +52,13 @@
         <div class="col-5">
             <div class="row d-flex">
                 <div class="book">
-                    <audio controls>  
+                    
+                    <audio controls class="audio-player" id="@b.id" >  
   <source src="@b.link" type="audio/mpeg">  
   
 </audio> 
+
+      
                 </div>
                 <div class="my-auto flex-column d-flex pad-left">
                     <h6 class="mob-text">@b.id</h6>
@@ -79,5 +84,18 @@
   }
     
  }
+ <script>
+     var audioPlayers = document.querySelectorAll('.audio-player');
+    var currentAudio = null;
+
+    audioPlayers.forEach(function (audio) {
+        audio.addEventListener('play', function () {
+            if (currentAudio && currentAudio !== this) {
+                currentAudio.pause();
+            }
+            currentAudio = this;
+        });
+    });
+    </script>
 </body>
 </html>
