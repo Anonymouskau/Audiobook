@@ -25,14 +25,14 @@ public class HomeController : Controller
     {    
        try{
             string fnama= mp.FileName;
-       Path.GetFileName(fnama);
-       
+            Path.GetFileName(fnama);
+            
        string uploadpath=Path.Combine(Directory.GetCurrentDirectory(),"wwwroot\\mp3",fnama);
        var stream =new FileStream(uploadpath,FileMode.Create);
        mp.CopyToAsync(stream);
        Dbmanager db=new Dbmanager();
-         
-       int value=db.addbook(fnama,uploadpath);
+       string path="mp3"+fnama;  
+       int value=db.addbook(fnama,path);
         Console.WriteLine(value);
        } catch(System.Exception err){
           
