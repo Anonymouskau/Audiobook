@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7bMAG70vhBredE5PbtAJaKabKOEC8RyMwDFZBQ1agjE=",
+  "Hash": "3xhnqSb/eMqwn3/lB6/p54jk9soPOqBhLhRdUs+kvF8=",
   "Source": "audiobook",
   "BasePath": "_content/audiobook",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\dribbble.gif",
+      "SourceId": "audiobook",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "BasePath": "_content/audiobook",
+      "RelativePath": "images/dribbble.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dribbble.gif"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\imag1.jpg",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\imag1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\sound-waves.gif",
+      "SourceId": "audiobook",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "BasePath": "_content/audiobook",
+      "RelativePath": "images/sound-waves.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sound-waves.gif"
     },
     {
       "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\js\\site.js",
@@ -1188,6 +1222,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\mp3\\Baarishein(PaglaSongs).mp3"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\The-Real-Slim-Shady---Eminem(pagolworld.nl).mp3",
+      "SourceId": "audiobook",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "BasePath": "_content/audiobook",
+      "RelativePath": "mp3/The-Real-Slim-Shady---Eminem(pagolworld.nl).mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mp3\\The-Real-Slim-Shady---Eminem(pagolworld.nl).mp3"
     }
   ]
 }

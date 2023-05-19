@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Audiobook1",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-audiobook",
+      "appliesTo": "audiobook/",
+      "type": "launch"
+    }
+  ]
+}

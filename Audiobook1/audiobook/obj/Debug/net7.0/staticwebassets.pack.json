@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\dribbble.gif",
+      "PackagePath": "staticwebassets\\images\\dribbble.gif"
+    },
+    {
       "Id": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\imag1.jpg",
       "PackagePath": "staticwebassets\\images\\imag1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\sound-waves.gif",
+      "PackagePath": "staticwebassets\\images\\sound-waves.gif"
     },
     {
       "Id": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\js\\site.js",
@@ -271,6 +279,10 @@
     {
       "Id": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\Baarishein(PaglaSongs).mp3",
       "PackagePath": "staticwebassets\\mp3\\Baarishein(PaglaSongs).mp3"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\The-Real-Slim-Shady---Eminem(pagolworld.nl).mp3",
+      "PackagePath": "staticwebassets\\mp3\\The-Real-Slim-Shady---Eminem(pagolworld.nl).mp3"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.audiobook.Microsoft.AspNetCore.StaticWebAssets.props",
