@@ -15,8 +15,7 @@ COPY audiobook/audiobook.csproj ./audiobook/
 RUN dotnet restore
 
 # Copy the remaining files and build the application
-COPY . .
-RUN dotnet build
+
 
 # Publish the project
 WORKDIR /app/audiobook
