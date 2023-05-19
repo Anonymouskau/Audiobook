@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "fO1ls4vPaJFOml8AWVjqggJ+ts1cMq1dgobatL0ympA2hyPYlz/+/7aum6rOP0RUPtzroQfEhMNCb5t8hyPRBA==",
+=======
+  "dgSpecHash": "LCRdTdxc/kccXPsAZwJt+Prf+/coozfMqCBU3yczw9XW2MUQ5cDILB8/KRn3Mk0OTc/V/eG/HegSEjNV1f5r5w==",
+>>>>>>> 3fc9b95af81af69c898e8246bc514df9f0a8108f
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\bol\\bol.csproj",
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\bol\\bol.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

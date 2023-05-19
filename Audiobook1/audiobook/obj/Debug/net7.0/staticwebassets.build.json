@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "3xhnqSb/eMqwn3/lB6/p54jk9soPOqBhLhRdUs+kvF8=",
+=======
+  "Hash": "BY89zl1itUd9uVaorfbRE38dbVyPnSYqHr4RJqChh1Q=",
+>>>>>>> 3fc9b95af81af69c898e8246bc514df9f0a8108f
   "Source": "audiobook",
   "BasePath": "_content/audiobook",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "audiobook\\wwwroot",
       "Source": "audiobook",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\bundle\\audiobook.styles.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\bundle\\audiobook.styles.css",
       "SourceId": "audiobook",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "audiobook.styles.css",
       "AssetKind": "All",
@@ -31,13 +35,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\bundle\\audiobook.styles.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\bundle\\audiobook.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\audiobook.bundle.scp.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\audiobook.bundle.scp.css",
       "SourceId": "audiobook",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "audiobook.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\audiobook.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\audiobook.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\css\\site.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +72,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\favicon.ico",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,6 +89,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\dribbble.gif",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
@@ -103,9 +108,29 @@
     },
     {
       "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\imag1.jpg",
+=======
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\dribbble.gif",
+>>>>>>> 3fc9b95af81af69c898e8246bc514df9f0a8108f
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "BasePath": "_content/audiobook",
+      "RelativePath": "images/dribbble.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dribbble.gif"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\imag1.jpg",
+      "SourceId": "audiobook",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "images/imag1.jpg",
       "AssetKind": "All",
@@ -119,6 +144,7 @@
       "OriginalItemSpec": "wwwroot\\images\\imag1.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\sound-waves.gif",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
@@ -137,9 +163,29 @@
     },
     {
       "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\js\\site.js",
+=======
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\images\\sound-waves.gif",
+>>>>>>> 3fc9b95af81af69c898e8246bc514df9f0a8108f
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "BasePath": "_content/audiobook",
+      "RelativePath": "images/sound-waves.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sound-waves.gif"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\js\\site.js",
+      "SourceId": "audiobook",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -153,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -170,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -187,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -204,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -221,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -238,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -255,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -272,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -289,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -306,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -323,10 +369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -340,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -357,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -374,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -391,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -408,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -425,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -442,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -459,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -476,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -493,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -510,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -527,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -544,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -561,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -578,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -595,10 +641,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -612,10 +658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -629,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -646,10 +692,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +709,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +743,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -714,10 +760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -731,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -748,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -765,10 +811,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -782,10 +828,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -799,10 +845,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -816,10 +862,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -833,10 +879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -850,10 +896,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -867,10 +913,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -884,10 +930,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -901,10 +947,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -918,10 +964,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -935,10 +981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -952,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -969,10 +1015,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -986,10 +1032,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1003,10 +1049,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1020,10 +1066,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1037,10 +1083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1054,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1071,10 +1117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1088,10 +1134,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1105,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1122,10 +1168,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\01 Yeh Fitoor Mera (Fitoor) (SongsMp3.Com).mp3",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\01 Yeh Fitoor Mera (Fitoor) (SongsMp3.Com).mp3",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "mp3/01 Yeh Fitoor Mera (Fitoor) (SongsMp3.Com).mp3",
       "AssetKind": "All",
@@ -1139,10 +1185,10 @@
       "OriginalItemSpec": "wwwroot\\mp3\\01 Yeh Fitoor Mera (Fitoor) (SongsMp3.Com).mp3"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\01_Tera_Fitoor_-_Genius.mp3",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\01_Tera_Fitoor_-_Genius.mp3",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "mp3/01_Tera_Fitoor_-_Genius.mp3",
       "AssetKind": "All",
@@ -1156,10 +1202,10 @@
       "OriginalItemSpec": "wwwroot\\mp3\\01_Tera_Fitoor_-_Genius.mp3"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Kamariya_-_MusicBadshah.Com.mp3",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Kamariya_-_MusicBadshah.Com.mp3",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "mp3/02_-_Kamariya_-_MusicBadshah.Com.mp3",
       "AssetKind": "All",
@@ -1173,10 +1219,10 @@
       "OriginalItemSpec": "wwwroot\\mp3\\02_-_Kamariya_-_MusicBadshah.Com.mp3"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Surili_Akhiyon_Wale.mp3",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Surili_Akhiyon_Wale.mp3",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "mp3/02_-_Surili_Akhiyon_Wale.mp3",
       "AssetKind": "All",
@@ -1190,10 +1236,10 @@
       "OriginalItemSpec": "wwwroot\\mp3\\02_-_Surili_Akhiyon_Wale.mp3"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Tu_Jaane_Na_.mp3",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\02_-_Tu_Jaane_Na_.mp3",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "mp3/02_-_Tu_Jaane_Na_.mp3",
       "AssetKind": "All",
@@ -1207,10 +1253,10 @@
       "OriginalItemSpec": "wwwroot\\mp3\\02_-_Tu_Jaane_Na_.mp3"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\Baarishein(PaglaSongs).mp3",
+      "Identity": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\mp3\\Baarishein(PaglaSongs).mp3",
       "SourceId": "audiobook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\Desktop\\Dotnetproj\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive\\Desktop\\desktopfolder1\\BookManagementsln-20230128T160400Z-001\\Audiobook\\Audiobook\\Audiobook1\\audiobook\\wwwroot\\",
       "BasePath": "_content/audiobook",
       "RelativePath": "mp3/Baarishein(PaglaSongs).mp3",
       "AssetKind": "All",
